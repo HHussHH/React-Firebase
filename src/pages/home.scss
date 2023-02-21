@@ -1,0 +1,29 @@
+.home {
+  &__title {
+    text-align: center;
+    color: #fff;
+    font-size: 30px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+  }
+  &__img {
+    border-radius: 20px;
+    width: 500px;
+    display: block;
+    margin: 0 auto;
+  }
+
+  &__btn {
+    display: block;
+    margin: 0 auto;
+    padding: 15px;
+    font-weight: bold;
+    font-size: 16px;
+    color: #fff;
+    background-color: #00b9bc;
+    min-width: 250px;
+    border: 0px;
+    cursor: pointer;
+    margin-top: 100px;
+  }
+}

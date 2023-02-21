@@ -76,7 +76,7 @@ const RegisterForm = () => {
       })
       .catch(console.error);
   };
-  return <Form title="Register" handleClick={handleRegister} />;
+  return <Form title="Зарегестрироваться" handleClick={handleRegister} />;
 };
 
 export default RegisterForm;

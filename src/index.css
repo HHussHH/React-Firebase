@@ -1,6 +1,11 @@
 body {
   margin: 0;
-  background-color: #c36ecef8;
+  background-color: #55a2ce;
+}
+*,
+*::after,
+*::before {
+  box-sizing: border-box;
 }
 
 code {
